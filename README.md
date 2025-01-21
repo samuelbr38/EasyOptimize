@@ -68,7 +68,5 @@ Feito com ❤️ por [Samuel S](https://github.com/samuelbr38)
 ---
 
 <p align="center">
-  <a href="#download-e-instalação-rápida">Download</a> •
-  <a href="#funcionalidades">Funcionalidades</a> •
-  <a href="#requisitos-do-sistema">Requisitos</a> •
+  <a href="https://github.com/samuelbr38/Otimizador-Windows-10/releases/tag/Download">Download</a> •
 </p>
