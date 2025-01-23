@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀 Otimizador Windows 10
+  🚀 EasyOptimize
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ## 📋 Sobre o Projeto
 
-O Otimizador Windows 10 é uma ferramenta desenvolvida em Python com interface gráfica PyQt6, projetada para melhorar o desempenho do seu sistema Windows 10. Com uma interface moderna e intuitiva, o aplicativo oferece diversas opções de otimização que podem ser selecionadas de acordo com as necessidades do usuário.
+EasyOptimize é uma ferramenta desenvolvida em Python com interface gráfica PyQt6, projetada para melhorar o desempenho do seu sistema Windows 10. Com uma interface moderna e intuitiva, o aplicativo oferece diversas opções de otimização que podem ser selecionadas de acordo com as necessidades do usuário.
 
 ## ⚡ Download e Instalação Rápida
 
