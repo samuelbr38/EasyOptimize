@@ -13,7 +13,7 @@ O Otimizador Windows 10 é uma ferramenta desenvolvida em Python com interface g
 ## ⚡ Download e Instalação Rápida
 
 1. Acesse a [página de releases](https://github.com/samuelbr38/Otimizador-Windows-10/releases/tag/Download)
-2. Baixe o arquivo executável `test.exe`
+2. Baixe o arquivo executável `EasyOptimize.exe`
 3. Execute o programa (não necessita instalação)
 
 ## ✨ Funcionalidades
