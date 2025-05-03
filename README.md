@@ -38,12 +38,6 @@ graph LR
     F --> I[Subprocess]
 ```
 
-## 📱 Screenshots do Aplicativo
-
-<p align="center">
-  <img src="https://github.com/samuelbr38/Otimizador-Windows-10/blob/main/assets/1.JPG?raw=true" alt="Tela Principal" width="500">
-  <img src="https://github.com/samuelbr38/Otimizador-Windows-10/blob/main/assets/2.JPG?raw=true" alt="Tela Principal 2" width="500">
-</p>
 
 ## 📈 Recursos do Projeto
 
