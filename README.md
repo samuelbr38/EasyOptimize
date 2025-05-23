@@ -3,8 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/samuelbr38/Otimizador-Windows-10" alt="Release"> 
-  <img src="https://img.shields.io/https://discord.gg/FfSAEsyfvs" alt="Discord">
+  <img src="https://img.shields.io/github/v/release/samuelbr38/Otimizador-Windows-10" alt="Release">
 </p>
 
 ## 📋 Sobre o Projeto
