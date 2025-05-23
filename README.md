@@ -4,11 +4,17 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/samuelbr38/Otimizador-Windows-10" alt="Release"> 
+  <img src="https://img.shields.io/discord/your-discord-server-id?label=Discord" alt="Discord">
 </p>
 
 ## 📋 Sobre o Projeto
 
 EasyOptimize é uma ferramenta desenvolvida em Python com interface gráfica PyQt6, projetada para melhorar o desempenho do seu sistema Windows 10. Com uma interface moderna e intuitiva, o aplicativo oferece diversas opções de otimização que podem ser selecionadas de acordo com as necessidades do usuário.
+
+## 🌐 Site e Comunidade
+
+- 🔗 [Site Oficial do Aplicativo](https://easyoptimize.example.com)
+- 💬 [Entre no nosso Discord](https://discord.gg/your-invite-link)
 
 ## ⚡ Download e Instalação Rápida
 
@@ -36,31 +42,29 @@ graph LR
     F --> G[OS]
     F --> H[Sys]
     F --> I[Subprocess]
-```
+📈 Recursos do Projeto
+Interface gráfica moderna e intuitiva
 
+Seleção flexível de otimizações
 
-## 📈 Recursos do Projeto
+Barra de progresso em tempo real
 
-- Interface gráfica moderna e intuitiva
-- Seleção flexível de otimizações
-- Barra de progresso em tempo real
-- Sistema de avisos e confirmações
-- Tratamento de erros robusto
-- Executável standalone (não requer instalação)
-- Compatível com Windows 10
+Sistema de avisos e confirmações
 
-## ⚠️ Requisitos do Sistema
+Tratamento de erros robusto
 
-- Sistema Operacional: Windows 10
-- Mínimo de 50MB de espaço em disco
-- Conexão com a internet não é necessária
+Executável standalone (não requer instalação)
 
-## 👨‍💻 Autor
+Compatível com Windows 10
 
-Feito com ❤️ por [Samuel S](https://github.com/samuelbr38)
+⚠️ Requisitos do Sistema
+Sistema Operacional: Windows 10
 
----
+Mínimo de 50MB de espaço em disco
 
-<p align="center">
-  <a href="https://github.com/samuelbr38/Otimizador-Windows-10/releases/tag/Download">Download</a> •
-</p>
+Conexão com a internet não é necessária
+
+👨‍💻 Autor
+Feito com ❤️ por Samuel S
+
+<p align="center"> <a href="https://github.com/samuelbr38/Otimizador-Windows-10/releases/tag/Download">Download</a> • <a href="https://easyoptimize.example.com">Site Oficial</a> • <a href="https://discord.gg/your-invite-link">Discord</a> </p> ```
