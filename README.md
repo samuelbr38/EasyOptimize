@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/samuelbr38/Otimizador-Windows-10" alt="Release"> 
-  <img src="https://img.shields.io/discord/your-discord-server-id?label=Discord" alt="Discord">
+  <img src="https://img.shields.io/https://discord.gg/FfSAEsyfvs" alt="Discord">
 </p>
 
 ## 📋 Sobre o Projeto
@@ -13,8 +13,8 @@ EasyOptimize é uma ferramenta desenvolvida em Python com interface gráfica PyQ
 
 ## 🌐 Site e Comunidade
 
-- 🔗 [Site Oficial do Aplicativo](https://easyoptimize.example.com)
-- 💬 [Entre no nosso Discord](https://discord.gg/your-invite-link)
+- 🔗 [Site Oficial do Aplicativo](https://easyoptimize.netlify.app)
+- 💬 [Entre no nosso Discord](https://discord.gg/FfSAEsyfvs)
 
 ## ⚡ Download e Instalação Rápida
 
