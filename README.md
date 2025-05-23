@@ -30,7 +30,7 @@ EasyOptimize é uma ferramenta desenvolvida em Python com interface gráfica PyQ
 - 💾 **Limpeza de Cache**: Libera a memória cache do sistema para melhor performance
 - ⚡ **Ajustes de Performance**: Aplica configurações avançadas para otimizar o desempenho geral
 
-## 🛠️ Tecnologias Utilizadas
+  ## 🛠️ Tecnologias Utilizadas
 
 ```mermaid
 graph LR
@@ -42,29 +42,31 @@ graph LR
     F --> G[OS]
     F --> H[Sys]
     F --> I[Subprocess]
-📈 Recursos do Projeto
-Interface gráfica moderna e intuitiva
+```
 
-Seleção flexível de otimizações
 
-Barra de progresso em tempo real
+## 📈 Recursos do Projeto
 
-Sistema de avisos e confirmações
+- Interface gráfica moderna e intuitiva
+- Seleção flexível de otimizações
+- Barra de progresso em tempo real
+- Sistema de avisos e confirmações
+- Tratamento de erros robusto
+- Executável standalone (não requer instalação)
+- Compatível com Windows 10
 
-Tratamento de erros robusto
+## ⚠️ Requisitos do Sistema
 
-Executável standalone (não requer instalação)
+- Sistema Operacional: Windows 10
+- Mínimo de 50MB de espaço em disco
+- Conexão com a internet não é necessária
 
-Compatível com Windows 10
+## 👨‍💻 Autor
 
-⚠️ Requisitos do Sistema
-Sistema Operacional: Windows 10
+Feito com ❤️ por [Samuel S](https://github.com/samuelbr38)
 
-Mínimo de 50MB de espaço em disco
+---
 
-Conexão com a internet não é necessária
-
-👨‍💻 Autor
-Feito com ❤️ por Samuel S
-
-<p align="center"> <a href="https://github.com/samuelbr38/Otimizador-Windows-10/releases/tag/Download">Download</a> • <a href="https://easyoptimize.example.com">Site Oficial</a> • <a href="https://discord.gg/your-invite-link">Discord</a> </p> ```
+<p align="center">
+  <a href="https://github.com/samuelbr38/Otimizador-Windows-10/releases/tag/Download">Download</a> •
+</p>
