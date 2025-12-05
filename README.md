@@ -46,6 +46,8 @@ graph LR
 
 ## 📈 Recursos do Projeto
 
+
+- Ultima Atualização 05/12/2025
 - Interface gráfica moderna e intuitiva
 - Seleção flexível de otimizações
 - Barra de progresso em tempo real
