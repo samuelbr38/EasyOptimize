@@ -8,7 +8,7 @@
 
 ## 📋 Sobre o Projeto
 
-EasyOptimize é uma ferramenta desenvolvida em Python com interface gráfica PyQt6, projetada para melhorar o desempenho do seu sistema Windows 10. Com uma interface moderna e intuitiva, o aplicativo oferece diversas opções de otimização que podem ser selecionadas de acordo com as necessidades do usuário.
+EasyOptimize é uma ferramenta desenvolvida em Python com interface gráfica PyQt6, projetada para melhorar o desempenho do seu sistema Windows 10/11. Com uma interface moderna e intuitiva, o aplicativo oferece diversas opções de otimização que podem ser selecionadas de acordo com as necessidades do usuário.
 
 ## 🌐 Site e Comunidade
 
@@ -33,7 +33,7 @@ EasyOptimize é uma ferramenta desenvolvida em Python com interface gráfica PyQ
 
 ```mermaid
 graph LR
-    A[Otimizador Windows 10] --> B[Interface Gráfica]
+    A[Otimizador Windows 10/11] --> B[Interface Gráfica]
     A --> C[Sistema]
     B --> D[PyQt6]
     C --> E[Windows API]
@@ -52,7 +52,7 @@ graph LR
 - Sistema de avisos e confirmações
 - Tratamento de erros robusto
 - Executável standalone (não requer instalação)
-- Compatível com Windows 10
+- Compatível com Windows 10/11
 
 ## ⚠️ Requisitos do Sistema
 
